@@ -1,4 +1,5 @@
-Hi 
+Hi
+
 I'm Rusho, someone with a passion for AI and it's understanding
 Who want's to learn and persue a career as a security architect.
 I've previously worked with docker and some LLMs.
